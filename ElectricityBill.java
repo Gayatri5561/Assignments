@@ -1,6 +1,6 @@
 package ecs;
 import java.util.*;
-public class ElectricBill 
+public class ElectricityBill 
 {
 	public static void main(String[] args)
 	 {
